@@ -7,7 +7,6 @@
 
 
 ## 💼 Technical Skills
-<hr>
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=26e34f)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
