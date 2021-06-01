@@ -2,8 +2,8 @@
 
 ## I'm currently Learning Data Science & ML
 
-- 🌱 I'm currently working on 
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 🌱 I'm currently working taking the IBM Data Science Specialisation on Coursera
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me @temikelxni (twitter)
 
 
 ## 💼 Technical Skills
