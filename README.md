@@ -20,9 +20,5 @@
 
 ## 📈 GitHub Stats 
 
-[![Temi's Github stats](https://github-readme-stats.vercel.app/api?username=temikelani)](https://github.com/temikelani)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temikelani&layout=compact)](https://github.com/temikelani)
-
-<!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=BigRichi.BigRichi)](https://www.yushi.dev/) -->
 
