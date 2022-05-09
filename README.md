@@ -76,6 +76,7 @@ Hi, Recruiters,
 
 - Please note that i am currently open to location-agnostic remote roles only.
   - Full Time / Part Time / Contract Roles are fine
+- However, I am open to relocating for the right role.
 - Please do not contact me for roles hiring only location-specific residents or citizens.
 
 Thank you for checking my page. See the project section below.
