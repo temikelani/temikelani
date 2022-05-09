@@ -7,6 +7,7 @@
 I'm an AWS Architect && DevOps Engineer && Full Stack Engineer.
 
 ## Contact
+
 - [LinkedIn](https://www.linkedin.com/in/temikelani/)
 
 ## Certifications
@@ -14,7 +15,9 @@ I'm an AWS Architect && DevOps Engineer && Full Stack Engineer.
 - [Credly Profile](https://www.credly.com/users/temidayo-kelani/badges)
 
 ## Tech Stack
+
 ## [Projects](./projects.md)
+
 ## [Resources](./resources.md)
 
 <br><br>
@@ -38,9 +41,3 @@ Hi, Recruiters,
 - Please do not contact me for roles hiring only location-specific residents or citizens.
 
 Thank you for checking my page. See the project link above.
-
-<br><br><br>
-
-# .... <a id=''></a> ([go to top](#top))
-
-<br><br><br><br>
