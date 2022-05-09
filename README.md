@@ -10,42 +10,13 @@ I'm an AWS Architect && DevOps Engineer && Full Stack Engineer.
 
 - [LinkedIn](https://www.linkedin.com/in/temikelani/)
 
+## Certifications
+
+- [Credly Profile](https://www.credly.com/users/temidayo-kelani/badges)
+
+<br>
+
 ## Tech Stack
-
-- Cloud Provider
-
-  - AWS
-
-- DevOps
-
-  - Docker
-  - Terraform
-  - Kubernetes
-  - Jenkins
-  - Ansible
-
-- Dev Setup
-
-  - macOS
-  - Linux
-
-- Languages
-
-  - Javascript
-  - Python
-  - Bash
-
-- Front End
-
-- Back End
-
-  - Node
-  - Express
-
-- Databases
-  - mySQL
-  - PSQL
-  - Mongo
 
 <br><br>
 
@@ -53,10 +24,8 @@ I'm an AWS Architect && DevOps Engineer && Full Stack Engineer.
 
 - [About this Repo](#about-repo)
 - [Recruiters](#recruiters)
-- [Projects](#)
-- [Resources](#)
-- [](#)
-- [](#)
+- [Projects](./projects.md)
+- [Resources](./resources.md)
 - [go to top](#top)
 
 <br><br>
@@ -76,30 +45,12 @@ Hi, Recruiters,
 
 - Please note that i am currently open to location-agnostic remote roles only.
   - Full Time / Part Time / Contract Roles are fine
-- However, I am open to relocating for the right role.
+- However, I am open to relocati for the right role.
 - Please do not contact me for roles hiring only location-specific residents or citizens.
 
-Thank you for checking my page. See the project section below.
+Thank you for checking my page. See the project link above.
 
 <br><br><br>
-
-# Projects <a id=''></a> ([go to top](#top))
-
-<br>
-
-## Client Projects (AWS Freelance Consulations)
-
-- [Triggering DynamoDB Backups With S3 Upload Events Via Lambda](https://github.com/temikelani/s3-event-trigger-ddb-backup)
-
-<br>
-
-## Mini Projects
-
-<br><br><br>
-
-# Resources <a id=''></a> ([go to top](#top))
-
-<br><br><br><br>
 
 # .... <a id=''></a> ([go to top](#top))
 
