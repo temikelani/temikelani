@@ -1,32 +1,21 @@
 # Welcome to My GitHub Page👋 <a id ='top'></a>
 
-<br><br>
+<br>
 
 # About Me
 
 I'm an AWS Architect && DevOps Engineer && Full Stack Engineer.
 
 ## Contact
-
 - [LinkedIn](https://www.linkedin.com/in/temikelani/)
 
 ## Certifications
 
 - [Credly Profile](https://www.credly.com/users/temidayo-kelani/badges)
 
-<br>
-
 ## Tech Stack
-
-<br><br>
-
-# Contents
-
-- [About this Repo](#about-repo)
-- [Recruiters](#recruiters)
-- [Projects](./projects.md)
-- [Resources](./resources.md)
-- [go to top](#top)
+## [Projects](./projects.md)
+## [Resources](./resources.md)
 
 <br><br>
 
@@ -37,7 +26,7 @@ Here you will find links to my projects - bug and small - and any other relevant
 
 > > > **_Please check back as I will be updating the page gradually_**
 
-<br><br><br>
+<br>
 
 # Recruiters <a id='recruiters'></a> ([go to top](#top))
 
