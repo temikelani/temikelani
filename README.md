@@ -6,26 +6,21 @@
 
 I'm an AWS Architect && DevOps Engineer && Full Stack Engineer.
 
-## Contact
+### [Contact](https://www.linkedin.com/in/temikelani/)
 
-- [LinkedIn](https://www.linkedin.com/in/temikelani/)
+### [Certification](https://www.credly.com/users/temidayo-kelani/badges)
 
-## Certifications
+### Tech Stack
 
-- [Credly Profile](https://www.credly.com/users/temidayo-kelani/badges)
+### [Projects](./projects.md)
 
-## Tech Stack
-
-## [Projects](./projects.md)
-
-## [Resources](./resources.md)
+### [Resources](./resources.md)
 
 <br><br>
 
 # About This Repo <a id='about-repo'></a> ([go to top](#top))
 
-This repo serves as a showcase for everything i want to higlight about github account and career.
-Here you will find links to my projects - bug and small - and any other relevant contributions i make including but not limited to blogs, tutorials, open-source contributions etc. I also intend to include a resources section for anyone curious doing what i do.
+This repo serves as a showcase for everything i want to highlight about Github account and career in general.
 
 > > > **_Please check back as I will be updating the page gradually_**
 
