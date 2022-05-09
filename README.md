@@ -6,15 +6,7 @@
 
 I'm an AWS Architect && DevOps Engineer && Full Stack Engineer.
 
-### [Contact](https://www.linkedin.com/in/temikelani/)
-
-### [Certification](https://www.credly.com/users/temidayo-kelani/badges)
-
-### Tech Stack
-
-### [Projects](./projects.md)
-
-### [Resources](./resources.md)
+### [Contact](https://www.linkedin.com/in/temikelani/) || ### [Certifications](https://www.credly.com/users/temidayo-kelani/badges) || ### Tech Stack || ### [Projects](./projects.md) || ### [Resources](./resources.md)
 
 <br><br>
 
