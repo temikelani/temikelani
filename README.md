@@ -1,10 +1,16 @@
-# Hi, I'm Temi 👋
+# Hi, I'm Temi! Welcome to My GitHub Page👋
 
+# About Me
+
+I'm an AWS Architect && DevOps Engineer && Full Stack Engineer.
 
 # Contents
-- [Recruiters](#)
+
+- [Recruiters](#recruiters)
 - [Labs](#)
 - [Projects](#)
 - [Resources](#)
 - [](#)
 - [](#)
+
+# Title
