@@ -4,7 +4,7 @@
 
 # About Me
 
-I'm an AWS Architect && DevOps Engineer && Full Stack Engineer.
+AWS Architect, DevOps & Full Stack Engineer.
 
 ### [Projects](./projects.md)  - [Resume]() - [Contact](https://www.linkedin.com/in/temikelani/) - [Certifications](https://www.credly.com/users/temidayo-kelani/badges) - [Tech Stack]() - [Resources](./resources.md)
 
