@@ -6,7 +6,7 @@
 
 AWS Architect, DevOps & Full Stack Engineer.
 
-### [Projects](./projects.md) - [Resume](./resume.pdf) - [Contact](https://www.linkedin.com/in/temikelani/) - [Certifications](https://www.credly.com/users/temidayo-kelani/badges) - [Tech Stack](./techstack.md) - [Resources](./resources.md)
+### [Projects](./projects.md) - [Resume](./resume.pdf) - 🤝 [Contact](https://www.linkedin.com/in/temikelani/) - [Certifications](https://www.credly.com/users/temidayo-kelani/badges) - 💻[Tech Stack](./techstack.md) - [Resources](./resources.md)
 
 > > > Please check back, This page is still being populated!
 
