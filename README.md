@@ -22,6 +22,12 @@ Thank you for checking my page. See the project link above.
   - Relaction will be considered for the right role
 - **Please do not contact me for roles hiring only location-specific residents or citizens.**
 
+<br>
+
+# Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temikelani&layout=compact)](https://github.com/temikelani)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=temikelani&repo=github-readme-stats)](https://github.com/temikelani)
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=temikelani)](https://github.com/temikelani) -->
