@@ -12,8 +12,11 @@
 
 - [Deploying a Highly Available Web App On EC2](https://github.com/temikelani/deploy-a-highly-available-webapp-on-ec2)
 
+
+
 <br>
 
 ## Mini Projects
+- [Deploying a Static Website Via S3 and CloudFront](https://github.com/temikelani/s3-cFront-static-website)
 
 <br><br><br>
