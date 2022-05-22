@@ -1,4 +1,4 @@
-# Welcome to My GitHub Page👋 <a id ='top'></a>
+# I'm Temi, welcome to my GitHub page👋 <a id ='top'></a>
 
 <br>
 
