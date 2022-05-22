@@ -8,6 +8,12 @@
 
 <br>
 
+## Personal Projects
+
+- [Deploying a Highly Available Web App On EC2](https://github.com/temikelani/deploy-a-highly-available-webapp-on-ec2)
+
+<br>
+
 ## Mini Projects
 
 <br><br><br>

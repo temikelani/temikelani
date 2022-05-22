@@ -28,6 +28,6 @@ Thank you for checking my page. See the project link above.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temikelani&layout=compact)](https://github.com/temikelani)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=temikelani&repo=temikelani)](https://github.com/temikelani/temikelani)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=temikelani&repo=temikelani)](https://github.com/temikelani/temikelani) -->
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=temikelani)](https://github.com/temikelani) -->
