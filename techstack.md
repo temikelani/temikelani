@@ -4,33 +4,19 @@
 
 - AWS
 
-# DevOps
-
-- Docker
-- Terraform
-- Kubernetes
-- Jenkins
-- Ansible
-
-# Dev Setup
-
-- macOS
-- Linux
+<br>
 
 # Languages
 
-- Javascript
 - Python
+- Javascript
 - Bash
 
-# Full Stack
+<br>
 
-- React
-- Node
-- Express
+# IAC
 
-# Databases
+- Terraform
+- Cloud Formation
 
-- mySQL
-- PSQL
-- Mongo
+<!--  DevOps, Databses, FullStack, AWS Specialties -->
