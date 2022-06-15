@@ -37,6 +37,6 @@
 
 - [Deploying a Static Website Via S3 and CloudFront](https://github.com/temikelani/s3-cFront-static-website)
 - [Terraform Playground](https://github.com/temikelani/terraform-play-ground)
-  -- [Personal (growing) Collection of AWS Templates, Lambda Functions & Scripts](https://github.com/temikelani/cheatsheets/tree/main/aws)
+- [Personal (growing) Collection of AWS Templates, Lambda Functions & Scripts](https://github.com/temikelani/cheatsheets/tree/main/aws)
 
 <br><br><br>
