@@ -16,9 +16,13 @@
 
 # Personal Projects
 
+<br>
+
 ## Programming Projects
 
 - [LeetCode Solutions](https://github.com/temikelani/coding-problems)
+
+<br>
 
 ## General AWS Projects
 
