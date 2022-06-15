@@ -19,7 +19,7 @@
 ## AWS General
 
 - [Personal Collection of Lambda Scripts](https://github.com/temikelani/cheatsheets/tree/main/aws/lambda)
-- [Personal Collection of AWS Templates, Lambda Functions & Scripts](https://github.com/temikelani/cheatsheets/tree/main/aws)
+- [Deploy a Highly Available app with Terraform](https://github.com/temikelani/deploy-a-highly-available-app-with-terraform)
 - [Deploying a Highly Available Web App On EC2](https://github.com/temikelani/deploy-a-highly-available-webapp-on-ec2)
 
 <br>
@@ -28,5 +28,7 @@
 # Mini Projects
 
 - [Deploying a Static Website Via S3 and CloudFront](https://github.com/temikelani/s3-cFront-static-website)
+- [Terraform Playground](https://github.com/temikelani/terraform-play-ground)
+-- [Personal Collection of AWS Templates, Lambda Functions & Scripts](https://github.com/temikelani/cheatsheets/tree/main/aws)
 
 <br><br><br>
