@@ -7,16 +7,16 @@
 
 # Client Projects (AWS Freelance Consulations)
 
-- [Get Instance Details as a CSV](https://github.com/temikelani/cheatsheets/tree/main/aws/lambda/ec2/get-instance-details-as-csv)
-- [Triggering DynamoDB Backups With S3 Upload Events Via Lambda](https://github.com/temikelani/s3-event-trigger-ddb-backup)
-- [Scheduled, OnDemand and Triggered Backups Using AWS Backup](https://github.com/temikelani/scheduled-ondemand-aws-backup)
+- [AWS: Get Instance Details as a CSV](https://github.com/temikelani/cheatsheets/tree/main/aws/lambda/ec2/get-instance-details-as-csv)
+- [AWS: Triggering DynamoDB Backups With S3 Upload Events Via Lambda](https://github.com/temikelani/s3-event-trigger-ddb-backup)
+- [AWS: Scheduled, OnDemand and Triggered Backups Using AWS Backup](https://github.com/temikelani/scheduled-ondemand-aws-backup)
 
 <br>
 <br>
 
 # Personal Projects
 
-## AWS General
+## General AWS Projects
 
 - [Personal (growing) Collection of Lambda Scripts](https://github.com/temikelani/cheatsheets/tree/main/aws/lambda)
 - [Deploy a Highly Available App With Terraform](https://github.com/temikelani/deploy-a-highly-available-app-with-terraform)
