@@ -16,6 +16,10 @@
 
 # Personal Projects
 
+## Programming Projects
+
+- [LeetCode Solutions](https://github.com/temikelani/coding-problems)
+
 ## General AWS Projects
 
 - [Personal (growing) Collection of Lambda Scripts](https://github.com/temikelani/cheatsheets/tree/main/aws/lambda)
