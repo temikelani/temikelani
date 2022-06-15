@@ -16,8 +16,6 @@
 
 # Personal Projects
 
-<br>
-
 ## Programming Projects
 
 - [LeetCode Solutions](https://github.com/temikelani/coding-problems)
