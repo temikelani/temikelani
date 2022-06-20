@@ -17,12 +17,6 @@
 
 # Personal Projects
 
-## Programming Projects
-
-- [LeetCode Solutions](https://github.com/temikelani/coding-problems)
-
-<br>
-
 ## General AWS Projects
 
 - [Personal (growing) Collection of Lambda Scripts](https://github.com/temikelani/cheatsheets/tree/main/aws/lambda)
@@ -30,12 +24,19 @@
 - [Deploying a Highly Available Web App On EC2](https://github.com/temikelani/deploy-a-highly-available-webapp-on-ec2)
 
 <br>
+
+## Programming Projects
+
+- [LeetCode Solutions](https://github.com/temikelani/coding-problems)
+
+<br>
+<br>
 <br>
 
 # Mini Projects
 
-- [Deploying a Static Website Via S3 and CloudFront](https://github.com/temikelani/s3-cFront-static-website)
-- [Terraform Playground](https://github.com/temikelani/terraform-play-ground)
+- [AWS: Deploying a Static Website Via S3 and CloudFront](https://github.com/temikelani/s3-cFront-static-website)
+- [Terraform : Terraform Learning Playground](https://github.com/temikelani/terraform-play-ground)
 - [Personal (growing) Collection of AWS Templates, Lambda Functions & Scripts](https://github.com/temikelani/cheatsheets/tree/main/aws)
 
 <br><br><br>
