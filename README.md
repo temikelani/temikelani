@@ -16,9 +16,9 @@ A Cloud Architect with 3+ years experience architecting, designing, and implemen
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=temikelani&hide=jupyter notebook,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temikelani&hide=jupyternotebook,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/temikelani)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temikelani&hide=jupyternotebook,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/temikelani)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temikelani&layout=compact&hide=jupyternotebook,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/temikelani)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temikelani&layout=compact&hide=jupyternotebook,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/temikelani) -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=temikelani&repo=temikelani)](https://github.com/temikelani/temikelani) -->
 
