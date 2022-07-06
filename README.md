@@ -6,7 +6,7 @@
 
 A Cloud Architect with 3+ years experience architecting, designing, and implementing effective and performant AWS solutions, who enjoys working with companies to build the most cost-effective and efficient infrastructure for their business needs - using only the tools they need.
 
-### [Projects](./projects.md) - [Resume](./resume.pdf) - 🤝 [LinkedIn](https://www.linkedin.com/in/temikelani/) - 🪪 [Certifications](https://www.credly.com/users/temidayo-kelani/badges) <!-- - 💻[Tech Stack](./techstack.md) - 🥇 [Resources](./resources.md) -->
+### [Projects](./projects.md) - [Resume](./resume.pdf) - 🪪 [Certifications](https://www.credly.com/users/temidayo-kelani/badges) <!-- - 💻[Tech Stack](./techstack.md) - 🥇 [Resources](./resources.md) -->
 
 <br>
 
